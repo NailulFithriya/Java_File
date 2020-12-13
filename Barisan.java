@@ -1,3 +1,5 @@
+package Abstract_Class;
+
 
 /**
  * Abstract class Barisan - write a description of the class here
